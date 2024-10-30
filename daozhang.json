@@ -2371,6 +2371,11 @@
       }
     },
     {
+      "name": "道长3",
+      "type": 0,
+      "url": "https://h5.freejson.xyz/player/?url="
+    },
+    {
       "name": "臻享",
       "type": 0,
       "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
@@ -2417,6 +2422,21 @@
       }
     },
     {
+      "name": "道长1",
+      "type": 0,
+      "url": "http://vip.26db.cn/g/?url="
+    },
+    {
+      "name": "线路5",
+      "type": 0,
+      "url": "https://www.8090g.cn/?url="
+    },
+    {
+      "name": "线路8",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
       "name": "线路1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
@@ -2458,24 +2478,29 @@
       }
     },
     {
-      "name": "线路5",
-      "type": 0,
-      "url": "https://www.8090g.cn/?url="
-    },
-    {
-      "name": "线路6",
-      "type": 0,
-      "url": "https://jx.yangtu.top?url="
-    },
-    {
       "name": "线路7",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
-      "name": "线路8",
+      "name": "道长2",
       "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url="
+      "url": "https://jx.m3u8.pw/?url="
+    },
+    {
+      "name": "肥猫1",
+      "type": 0,
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url="
+    },
+    {
+      "name": "肥猫2",
+      "type": 0,
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+    },
+    {
+      "name": "肥猫3",
+      "type": 0,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
     }
   ],
   "flags": [
@@ -2674,6 +2699,9 @@
         }
       ]
     }
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "spider": "./f.jar"
