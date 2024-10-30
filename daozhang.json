@@ -1,4 +1,5 @@
 {
+  "spider": "./f.jar",
   "sites": [
     {
       "key": "drpy_js_荐片",
@@ -2342,6 +2343,21 @@
       "url": "Demo"
     },
     {
+      "name": "道长1",
+      "type": 0,
+      "url": "http://vip.26db.cn/g/?url="
+    },
+    {
+      "name": "道长2",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
+    },
+    {
+      "name": "道长3",
+      "type": 0,
+      "url": "https://h5.freejson.xyz/player/?url="
+    },
+    {
       "name": "推荐",
       "type": 1,
       "url": "https://jxjson.icu/neibu.php?url=",
@@ -2369,11 +2385,6 @@
           "User-Agent": "okhttp/4.9.1"
         }
       }
-    },
-    {
-      "name": "道长3",
-      "type": 0,
-      "url": "https://h5.freejson.xyz/player/?url="
     },
     {
       "name": "臻享",
@@ -2420,11 +2431,6 @@
           "User-Agent": "Dalvik/2.1.0"
         }
       }
-    },
-    {
-      "name": "道长1",
-      "type": 0,
-      "url": "http://vip.26db.cn/g/?url="
     },
     {
       "name": "线路5",
@@ -2481,26 +2487,6 @@
       "name": "线路7",
       "type": 0,
       "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "道长2",
-      "type": 0,
-      "url": "https://jx.m3u8.pw/?url="
-    },
-    {
-      "name": "肥猫1",
-      "type": 0,
-      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url="
-    },
-    {
-      "name": "肥猫2",
-      "type": 0,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
-    },
-    {
-      "name": "肥猫3",
-      "type": 0,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
     }
   ],
   "flags": [
